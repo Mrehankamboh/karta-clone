@@ -2,6 +2,10 @@
 
 Static mirror of [https://karta.framer.website/](https://karta.framer.website/) from HTTrack (`D:\httrack\karta.framer`).
 
+## Repository
+
+https://github.com/Mrehankamboh/karta-clone
+
 ## Run locally
 
 ```bash
